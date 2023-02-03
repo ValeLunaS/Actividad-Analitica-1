@@ -1,3 +1,8 @@
+
+
+Valentina
+
+
 #Generacion de inputs (x)
   x=seq(1,5,by=0.05)
   n=length(x) #numero de datos
